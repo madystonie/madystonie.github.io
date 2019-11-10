@@ -1,8 +1,10 @@
-#content{background-color:#fff;width:75%;padding:50px 40px;margin:0 auto;border-left:10px solid #E28409;border-right:1px solid #ddd;-moz-box-shadow:0 0 16px #aaa}
+* { font-family:"Lucida Console", Tahoma, Arial; }
 
-.head{font-family:Helvetica,Arial,Verdana;font-weight:700;font-size:12px;letter-spacing:3px;color:#888;border-bottom:2px solid #E28409;padding-bottom:10px;margin-bottom:10px}
+#content{background-color:#fff;width:75%;padding:50px 40px;margin:0 auto;border-left:10px solid #64F3D5;border-right:1px solid #ddd;-moz-box-shadow:0 0 16px #aaa}
 
-#content h1{color:#E28409;font-weight:400;font-size:2em;text-shadow:1px 1px 1px #aaa}
+.head{font-family:Helvetica,Arial,Verdana;font-weight:700;font-size:12px;letter-spacing:3px;color:#888;border-bottom:2px solid #64F3D5;padding-bottom:10px;margin-bottom:10px}
+
+#content h1{color:#64F3D5;font-weight:400;font-size:2em;text-shadow:1px 1px 1px #aaa}
 
 .subline{font-size:1.2em;margin:20px 0;color:#999}
 
@@ -10,8 +12,6 @@
 
 .article p{margin:20px 0;line-height:26px}
 
-#liens{top:0;right:0;border-left:1px solid #E28409;border-bottom:1px solid #E28409}
+#liens{top:0;right:0;border-left:1px solid #64F3D5;border-bottom:1px solid #64F3D5}
 
 #liens img{width:30px;border-radius:10px}
-
-@font-face {font-family: 'Roboto';font-style: normal;font-weight: 400;src: local('Roboto'), local('Roboto-Regular'), url(https://fonts.gstatic.com/s/roboto/v15/CWB0XYA8bzo0kSThX0UTuA.woff2) format('woff2');unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2212, U+2215, U+E0FF, U+EFFD, U+F000;}
